@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>👨‍💻 I’m currently working on<br>Web design & development projects, performance marketing campaigns, and high-converting landing pages for luxury villa brands.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, UI/UX improvements, SEO-driven websites, and digital marketing growth strategies.<br><br>🆘 I’m looking for help with<br>Scaling performance marketing campaigns, advanced analytics tracking, and automation workflows.<br><br>🌱 I’m currently learning<br>Advanced Laravel, OOP in PHP, conversion rate optimization, and modern frontend performance techniques.<br><br>💬 Ask me about<br>Web Development, Landing Pages, SEO, Google Ads, Meta Ads, Digital Marketing, and Website Performance Optimization.<br><br>⚡ Fun fact<br>I bridge design, technology, and marketing to turn websites into revenue-generating assets 🚀
+👋 About Me<br>👨‍💻 Web Designer & Developer working on high-performance websites and conversion-focused marketing.<br>🌱 Learning Laravel, PHP (OOP), and modern frontend optimization.<br>🤝 Open to collaborations in web dev, UI/UX, SEO & growth marketing.<br>💬 Ask me about web development, landing pages, Google & Meta Ads.<br>⚡ Fun fact: I blend design, tech & marketing to build revenue-driven websites 🚀
 
 
 ## 🌐 Socials:
